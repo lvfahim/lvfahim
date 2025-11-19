@@ -100,9 +100,37 @@
   </a>
 
 </p>
-
-
+<h3 align="left">
+  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="32">
+  GitHub Analytics — Md Fahim Numan
+</h3>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lvfahim&show_icons=true&locale=en" alt="lvfahim" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lvfahim&" alt="lvfahim" /></p>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<h3><img src="https://media.giphy.com/media/ZcnpXLn9Z4Vf6/giphy.gif" width="32">Statistics</h3>
+
+
+<!-- Summary Cards -->
+<div align="center">
+  <a href="https://github.com/wasin87">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=wasin87&theme=transparent" height="180em" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=wasin87&theme=transparent" height="180em" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=wasin87&theme=transparent" height="180em" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=wasin87&theme=transparent" height="180em" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wasin87&theme=transparent" height="180em" />
+  </a>
+</div>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<h2 align="left">⚡Activity Graph:</h2>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=wasin87&theme=lucent" alt="Activity Graph for wasin87" />
+</p>
+
+ <h3>🐍 Snake Game Repo View</h3>
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lvfahim&label=Profile%20views&color=0e75b6&style=flat" alt="lvfahim" /> </p>
