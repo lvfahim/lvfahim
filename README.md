@@ -15,7 +15,7 @@
 
  <p>FaceBook: https://www.facebook.com/lv.fahim.78750</p>
 
-<P>LinkIn: https://www.linkedin.com/in/md-fahim-551390392/</P>
+<P>LinkedIn: https://www.linkedin.com/in/md-fahim-551390392/</P>
 
 
 
