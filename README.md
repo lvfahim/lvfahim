@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm MD FAHIM</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh, And i like Anime.</h3>
 
+<p align="center">
+    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=28&pause=1000&color=3BC3FF&center=true&vCenter=true&width=600&lines=Hi%2C+I%27m+Md+fahim+numan;Junior+Frontend+Web+Developer;Learning+React+Tailwind+Node.js;Welcome+To+My+GitHub+Profile+%F0%9F%92%99" />
+</p>
+
 <h3 align="left">About Me:</h3>
 <p align="left">I am a college student who is passionate about learning new things. Alongside my studies, I have learned web development and plan to build my career in this field. I enjoy coding in my free time, as it helps me grow my skills and creativity. Whenever I feel down, I relax by watching anime—it helps me refresh and stay motivated.</p>
 
